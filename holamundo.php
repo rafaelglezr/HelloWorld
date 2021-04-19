@@ -1,3 +1,5 @@
 <?php
 
-echo 'Hola Mundo';
+echo 'Hola Mundo'.'<br>';
+
+echo 'Hoy es: '.date('d-m-Y');
